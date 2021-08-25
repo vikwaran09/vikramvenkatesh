@@ -1,0 +1,27 @@
+h1{
+    color: red;
+}
+p{
+    color:yellowgreen;
+}
+
+.broke {
+    color:orange;
+    font-weight: bold;
+    font-style: italic;
+    font-size: x-large;
+    font-family: Georgia;
+}
+
+.monkey {
+    color:brown;
+    font-family: cursive;
+}
+
+ol.normal {
+    list-style-type: upper-alpha;
+}
+
+ol.shortcut {
+    list-style: upper-alpha;
+}
